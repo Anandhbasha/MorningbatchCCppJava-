@@ -47,6 +47,6 @@ int main(){
     // printf("The employees salary is:%c",sc);
     // printf("The employees salary is:%u",uc);
     // char name [] = "Ajay";
-    
+
     return 0;
 }
