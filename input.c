@@ -11,6 +11,6 @@ int main(){
     scanf("%c",&ch);  
     printf("The A value is:%d\n",a);
     printf("The b value is:%d\n",b);
-    printf("The C value is:%c\n",ch);
+    printf("The C value is:%c",ch);
     return 0;
 }
