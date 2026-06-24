@@ -14,5 +14,6 @@ int main(){
     }else{
         printf("Switch on the Fan");
     }
+
     return 0;
 }
