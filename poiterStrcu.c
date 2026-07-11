@@ -8,5 +8,6 @@ struct Show
 int main(){
     struct Show s={25};
     struct Show *ptr = &s;
-    printf("%d",ptr->age);
+    printf("%d\n",ptr->age);
+    printf("%d",*ptr);
 }
