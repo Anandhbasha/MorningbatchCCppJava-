@@ -1,0 +1,72 @@
+1.Student Details
+
+   * Create a `Student` class.
+   * Add `name`, `age`, and `mark` as public variables.
+   * Create an object and display all student details.
+
+2.Car Details
+
+   * Create a `Car` class.
+   * Add `brand`, `model`, `price`, and `color` as public variables.
+   * Create two objects with different values and display their details.
+
+3.Mobile Details
+
+   * Create a `Mobile` class.
+   * Add `brand`, `model`, `price`, and `storage` as public variables.
+   * Create an object and display the mobile details.
+
+4.Employee Salary
+
+   * Create an `Employee` class.
+   * Add `name`, `employeeId`, and `salary` as public variables.
+   * Create an object and display the employee details.
+   * Calculate and display the annual salary.
+
+5.Bike Details
+
+   * Create a `Bike` class.
+   * Add `brand`, `model`, `color`, `mileage`, and `topSpeed` as public variables.
+   * Create two objects with different bike details.
+   * Display both objects.
+
+6.Rectangle Calculation
+
+   * Create a `Rectangle` class.
+   * Add `length` and `width` as public variables.
+   * Create a method `calculateArea()`.
+   * Create a method `calculatePerimeter()`.
+   * Display both results.
+
+7.Student Result
+
+   * Create a `Student` class.
+   * Add `name`, `mark1`, `mark2`, and `mark3` as public variables.
+   * Create a method `calculateTotal()`.
+   * Create a method `calculateAverage()`.
+   * Display the student name, total, and average.
+
+8.Bank Account
+
+   * Create a `BankAccount` class.
+   * Add `accountHolder`, `accountNumber`, and `balance` as public variables.
+   * Create methods `deposit()` and `withdraw()`.
+   * Display the final balance.
+
+9.Product Billing
+
+   * Create a `Product` class.
+   * Add `productName`, `price`, and `quantity` as public variables.
+   * Create a method `calculateTotal()`.
+   * Display the product details and total price.
+
+10.Bike Methods
+
+* Create a `Bike` class.
+* Add `bikeName`, `bikeColor`, `bikeSpeed`, and `numberOfWheels` as public variables.
+* Create methods:
+
+  * `startBike()`
+  * `accelerate()`
+  * `brake()`
+* Create two objects and call the methods for both bikes.
